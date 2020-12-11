@@ -1,0 +1,3 @@
+include ':UtilMaster'
+include ':app'
+rootProject.name = "DhruveniUtils"
