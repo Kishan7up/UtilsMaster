@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CustomDialog</string>
+    <string name="default_ask_text">Are you sure?</string>
+    <string name="default_agree_btn_text">YES</string>
+    <string name="default_disagree_btn_text">NO</string>
+</resources>

@@ -16,4 +16,5 @@ public class DMLog {
     {
         Toast.makeText(context, Msg, Toast.LENGTH_SHORT).show();
     }
+
 }
